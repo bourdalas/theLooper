@@ -1,4 +1,7 @@
 # theLooper
+
+## Introduction
+
 This is The Looper design and implementation repository. TheLooper is a standalone audio-processing device using:
 
 1. A custom sturdy aluminum and wooden case.
@@ -12,7 +15,7 @@ This is The Looper design and implementation repository. TheLooper is a standalo
 
 
 
-This repo should contain:
+## Repo should contain:
 
 1. Case Construction: 
 	1. Design files.
@@ -30,7 +33,7 @@ This repo should contain:
 	1. for controlling the looper audio engine and rasberry functionalities
 
 
-Now contains:
+## Repo now contains:
 
 1. Case Construction:
 -
@@ -42,5 +45,5 @@ Now contains:
 -
 
 4. JUCE Code: 
-- HelloLooper: A ready github repo, which a simple looper juce app is implemented. This repo could be used as the core of the looper audio engine 
+	1. HelloLooper: A ready github repo, which a simple looper juce app is implemented. This repo could be used as the core of the looper audio engine 
 
