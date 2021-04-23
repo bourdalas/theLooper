@@ -21,15 +21,15 @@ This is The Looper design and implementation repository. TheLooper is a standalo
 	1. Design files.
 	2. Implementation details.
 
-2. Hardware midi i/o:  
-	1. modules schematics 
+2. Hardware:  
+	1. midi input modules schematics 
 	2. pcb design cad files  
 	3. implementation details.
 
-3. Arduino Code: 
+3. Arduino: 
 	1. for controlling the hardware midi input
 
-4. JUCE Code: 
+4. Rasberry: 
 	1. for controlling the looper audio engine and rasberry functionalities
 
 
@@ -38,12 +38,12 @@ This is The Looper design and implementation repository. TheLooper is a standalo
 1. Case Construction:
 -
 
-2. Hardware midi i/o:  
+2. Hardware:  
 -
 
-3. Arduino Code: 
+3. Arduino: 
 	1. MIDI_controller: This is a library for creating a MIDI controller using an Arduino board. *Already-Tested* arduino library that will make the arduino code seem pretty pretty easy to do.
 
-4. JUCE Code: 
-	1. HelloLooper: A ready github repo, which a simple looper juce app is implemented. This repo could be used as the core of the looper audio engine 
+4. Rasberry: 
+	1. HelloLooper: A ready github repo, where a simple looper JUCE app is implemented. This repo could be used as the core of the looper audio engine 
 
