@@ -1,6 +1,5 @@
 # theLooper
-This is The Looper design and implementation repository
-TheLooper is a standalone audio-processing device using:
+This is The Looper design and implementation repository. TheLooper is a standalone audio-processing device using:
 
 1. A custom sturdy aluminum and wooden case.
 2. custom midi input hardware modules  
