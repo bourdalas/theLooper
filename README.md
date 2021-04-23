@@ -27,11 +27,13 @@ This is The Looper design and implementation repository. TheLooper is a standalo
 3. Arduino: 
 	1. Modules input connections schematics.
 	2. Code for midi mapping.
-	3. Imlementation details.
+	3. Midi output scheme design details.
 
 4. Rasberry: 
 	1. JUCE looper app.
-
+	2. Other possible uses for the device.
+		1. Pass midi input as output.
+		2. Other built-in juce apps.
 
 ## Repo now contains:
 
