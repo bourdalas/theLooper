@@ -1,0 +1,1 @@
+Details for the case construction
