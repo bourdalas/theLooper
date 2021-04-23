@@ -38,5 +38,5 @@ Now contains:
 -
 
 4. JUCE Code: 
- 1. HelloLooper: A ready github repo, which a simple looper juce app is implemented. This repo could be used as the core of the looper audio engine 
+- HelloLooper: A ready github repo, which a simple looper juce app is implemented. This repo could be used as the core of the looper audio engine 
 
