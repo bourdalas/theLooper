@@ -8,4 +8,7 @@
 4. Make arduino and rasberry support system.
 5. Make case input/output holes.
 6. Decide top side modules support structure details.
-
+8. Decide on modules front side dimensions 
+7. Make top side support structure
+8. Cut alumininium module size pieces
+9. Replace top side with sturdy solid modules aluminium faces.
