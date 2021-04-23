@@ -7,7 +7,7 @@ This is The Looper design and implementation repository. TheLooper is a standalo
 1. A custom sturdy aluminum and wooden case.
 2. custom aluminium midi input modules  
 3. One arduino-mega
-4. One rasberry-pi with pisound card (https://blokas.io/pisound/):
+4. One rasberry-pi with pisound card (https://blokas.io/pisound/)
 
 
 
