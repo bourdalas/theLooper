@@ -42,7 +42,7 @@ This is The Looper design and implementation repository. TheLooper is a standalo
 -
 
 3. Arduino Code: 
--
+	1. MIDI_controller: This is a library for creating a MIDI controller using an Arduino board. *Already-Tested* arduino library that will make the arduino code seem pretty pretty easy to do.
 
 4. JUCE Code: 
 	1. HelloLooper: A ready github repo, which a simple looper juce app is implemented. This repo could be used as the core of the looper audio engine 
