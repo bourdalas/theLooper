@@ -1,0 +1,1 @@
+# Details for the rasberry related stuff 

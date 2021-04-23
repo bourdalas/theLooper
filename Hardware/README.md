@@ -1,1 +1,1 @@
-Details for the hardware related stuff
+# Details for the hardware related stuff
