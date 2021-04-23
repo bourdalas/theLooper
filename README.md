@@ -36,7 +36,7 @@ This is The Looper design and implementation repository. TheLooper is a standalo
 ## Repo now contains:
 
 1. Case:
--
+	1. Possible implementation steps
 
 2. Hardware:  
 -
