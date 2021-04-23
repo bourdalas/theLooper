@@ -7,4 +7,5 @@
 3. Decide for arduino and rasberry positions.
 4. Make arduino and rasberry support system.
 5. Make case input/output holes.
-6. Start working on top side.
+6. Decide top side modules support structure details.
+
