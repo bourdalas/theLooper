@@ -17,7 +17,7 @@ This is The Looper design and implementation repository. TheLooper is a standalo
 
 ## Repo should contain:
 
-1. Case Construction: 
+1. Case: 
 	1. Design files.
 	2. Implementation details.
 
@@ -35,7 +35,7 @@ This is The Looper design and implementation repository. TheLooper is a standalo
 
 ## Repo now contains:
 
-1. Case Construction:
+1. Case:
 -
 
 2. Hardware:  
