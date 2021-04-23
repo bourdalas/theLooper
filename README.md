@@ -4,7 +4,7 @@ This is The Looper design and implementation repository. TheLooper is a standalo
 1. A custom sturdy aluminum and wooden case.
 2. custom midi input hardware modules  
 3. One arduino-mega for mapping this midi input 
-4. One rasberry-pi for audio processing and other functonalies (JUCE C++)
+4. One rasberry-pi for audio processing (JUCE C++) and other functonalies 
 
 
 
