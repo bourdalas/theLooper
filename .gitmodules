@@ -1,6 +1,6 @@
 [submodule "hello-looper"] 
-  path = hello-looper 
+  path = Rasberry/hello-looper 
   url = https://github.com/shpar/hello-looper.git
 [submodule "MIDI_controller"]
-	path = MIDI_controller
+	path = Arduino/MIDI_controller
 	url = https://github.com/tttapa/MIDI_controller.git
